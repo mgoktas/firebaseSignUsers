@@ -1,0 +1,14 @@
+#login_buttons{
+    width: 100%;
+    position: absolute;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center !important;
+}
+
+#btn_login, #btn_signup {
+    display: inline-block;
+    width: 100px;
+}
